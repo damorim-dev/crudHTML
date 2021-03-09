@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: darkslateblue;
+    color: white;
+    font-family: roboto;
+}
+
+.form{
+    max-width: 500px;
+}
+
+form{
+    font-size: 24px;
+}
+
+input{
+    padding:10px;
+}
+
+.buton{
+    margin-top: 5px;
+    display: block;
+} 
+
+ul{
+    list-style: none;
+}
+
+.deleteButton{
+    background-color: darkred;
+    color: white;
+    border-radius: 50%;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.clickable{
+    cursor: pointer;
+}
